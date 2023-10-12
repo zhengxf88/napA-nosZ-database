@@ -13,6 +13,7 @@ Construction of Carbon, Nitrogen, Phosphorus, and Sulfur Functional Database
 6. For each functional gene, de-duplication was performed on the nucleotide sequences within the same species using UCLUST (Edgar, 2010) at 100% similarity, forming a Usearch compatible sequence library.
    
 References:
+
 Aramaki, T., Blanc-Mathieu, R., Endo, H., Ohkubo, K., Kanehisa, M., Goto, S., and Ogata, H. (2020). KofamKOALA: KEGG Ortholog assignment based on profile HMM and adaptive score threshold. Bioinformatics 36, 2251-2252.
 Edgar, R.C. (2010). Search and clustering orders of magnitude faster than BLAST. Bioinformatics 26, 2460-2461.
 Hyatt, D., Chen, G.-L., LoCascio, P.F., Land, M.L., Larimer, F.W., and Hauser, L.J. (2010). Prodigal: prokaryotic gene recognition and translation initiation site identification. BMC Bioinformatics 11, 119.
