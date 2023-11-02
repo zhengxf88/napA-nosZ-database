@@ -37,6 +37,11 @@ usearch -sintax reads.fastq -db 16s.udb -tabbedout reads.sintax \
   further informaion about the sintax algorithm can be found https://www.drive5.com/usearch/manual/cmd_sintax.html
 
 
+How to cite this database
+
+Citation: Zheng X, Yan Z, Zhao C, He L, Lin Z and Liu M (2023) Homogeneous environmental selection mainly determines the denitrifying bacterial community in intensive aquaculture water. Front. Microbiol. 14:1280450. doi: 10.3389/fmicb.2023.1280450
+
+
 These database constructed by Zhang Lei from from Logic Informatics Co.,Ltd., Jinan, China. Email: zhanglei@logictek.cn
 
   
