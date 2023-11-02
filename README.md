@@ -21,7 +21,7 @@ Hyatt, D., Chen, G.-L., LoCascio, P.F., Land, M.L., Larimer, F.W., and Hauser, L
 Kanehisa, M., Sato, Y., Kawashima, M., Furumichi, M., and Tanabe, M. (2016). KEGG as a reference resource for gene and protein annotation. Nucleic Acids Research 44, D457-D462.   
 Mirdita, M., Steinegger, M., Breitwieser, F., Söding, J., and Levy Karin, E. (2021). Fast and sensitive taxonomic assignment to metagenomic contigs. Bioinformatics 37, 3029-3031.   
 Parks, D.H., Chuvochina, M., Chaumeil, P.-A., Rinke, C., Mussig, A.J., and Hugenholtz, P. (2020). A complete domain-to-species taxonomy for Bacteria and Archaea. Nature Biotechnology 38, 1079-1086.    
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -35,6 +35,7 @@ usearch -sintax reads.fastq -db 16s.udb -tabbedout reads.sintax \
   -strand both -sintax_cutoff 0.8
 
   further informaion about the sintax algorithm can be found https://www.drive5.com/usearch/manual/cmd_sintax.html
+
 
 
 How to cite this database
