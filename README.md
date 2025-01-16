@@ -1,7 +1,7 @@
-# napA gene database, nosZ gene database
+# napA gene database, nosZ gene database,dsrB gene database, soxB gene database
 denitrification function gene taxonomy annotation reference database
-
-The napA and nosZ databases belong to a larger functional gene database called the Carbon, Nitrogen, Phosphorus, and Sulfur Functional Gene Database. The construction protocol for this database is as follows:
+sulfur cycling gene taxonomy annotation reference database
+The napA, nosZ,dsrB, and soxB databases belong to a larger functional gene database called the Carbon, Nitrogen, Phosphorus, and Sulfur Functional Gene Database. The construction protocol for this database is as follows:
 
 Construction of Carbon, Nitrogen, Phosphorus, and Sulfur Functional Database
 
